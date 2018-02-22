@@ -8,6 +8,9 @@ npm run watch
 open index.html in browser 
 ```
 
-DEMO  : http://webpack-extract-text-webpack-plugin.surge.sh/
+
+QA : https://stackoverflow.com/questions/48805641/issue-using-extract-text-webpack-plugin
+
+ANS  : http://webpack-extract-text-webpack-plugin.surge.sh/
 
 
